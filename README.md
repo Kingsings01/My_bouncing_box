@@ -2,17 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Move the "div" with the id my_bouncing_box diagonally ,making it to bounce across edges.
 
 ## Description
-TODO - How have you solved the problem?
+setting initial position and creating if statements to make the div box bounce.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+Tactically, No Installation required by the task.
 
 ## Usage
-TODO - How does it work?
-```
+when box reaches the bottom border it will go top && when it reaches the right border it will go left.
+
 ./my_project argument1 argument2
 ```
 
